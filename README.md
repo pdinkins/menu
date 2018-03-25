@@ -6,6 +6,7 @@ This is a simple module for displaying a menu, making a choice, and calling the 
 
 
 USE:
+
     1. import menu
     
     2. define menu choice functions
