@@ -15,7 +15,7 @@ This is a simple module for displaying a menu, making a choice, and calling the 
     4. menu.initialize_menu(**menu_dictionary, **menutitle)
 
 
-EXAMPLE WIHT SUB-MENU:
+### EXAMPLE WIHT SUB-MENU:
     
     import menu 
 
