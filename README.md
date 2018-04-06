@@ -1,11 +1,9 @@
-#MENU
-#Parker Dinkins
-#Python 3.6
+# MENU
 
 This is a simple module for displaying a menu, making a choice, and calling the linked function.
 
 
-USE:
+### USE:
 
     1. import menu
     
